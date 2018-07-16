@@ -15,7 +15,10 @@ At the end, you should find client.login("<token>");
   
 Delete "<token>" from the function call, go to your Discord Client, press CTRL-SHIFT-I toghether, select the Application tab, proceed to Local Storage, https://discordapp.com, and select the token from the box. It should start like this: `"MzMw.................."`.
 
-Copy it entirely(including these ") in the place of "<token>", then save it. And you are ready to run it!
+Copy it entirely(including these ") in the place of "<token>", then save it. 
+In the end it should look like this: `client.login("MzMw................");`
+  
+Now you are ready to run it!
 
 # How to run it?
 
