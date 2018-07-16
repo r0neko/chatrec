@@ -93,4 +93,4 @@ client.on('message', (message) => {
 
 log("Proceding to log in to Discord...");
 client.login("<your token>"); // get your token from Discord
-// in discord client, press CTRL-SHIFT-I, go to Application, Local Storage, select https discord bla bla, and then get the token without ""'s and copy it into client.login("<token"), where <token> is your token.
+// follow the instructions!
