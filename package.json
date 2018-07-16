@@ -1,0 +1,28 @@
+{
+  "name": "chatrec",
+  "version": "1.0.0",
+  "description": "This app records discord messages. The main point of this app is that I received some messages on Discord, that got deleted instantly, and I didn't have proof to show the messages.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talnacialex/chatrec.git"
+  },
+  "keywords": [
+    "node.js",
+    "discord.js",
+    "chatrec"
+  ],
+  "author": "Talnaci Alexandru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talnacialex/chatrec/issues"
+  },
+  "homepage": "https://github.com/talnacialex/chatrec#readme"
+}
