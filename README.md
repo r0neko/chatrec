@@ -8,3 +8,7 @@ To install it, clone this repository, then run `npm install`.
 This command should install the dependencies.
 
 To run it, you just need to type `node index.js`
+
+# Where are the logs?
+
+The logs are in the logs/ directory. Will be created on first run.
